@@ -8,6 +8,6 @@
 * 👩‍🏫 Used to be an Elementary Teacher, but now I am a Full Stack Software Engineer💻.
 * 😄 Pronouns: She/Her
 * 😁 Fun fact: I have done stand up comedy!
- ✍🏻 My blog is [here](https://medium.com/@haleymgrassi)!
+* ✍🏻 My blog is [here](https://medium.com/@haleymgrassi)!
  
  ### Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/haley-grassi0716/)!
