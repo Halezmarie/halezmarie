@@ -10,4 +10,4 @@
 * 😁 Fun fact: I have done stand up comedy.
 * ✍🏻 My blog is [here](https://medium.com/@haleymgrassi)!
  
- ### Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/haley-grassi0716/)!
+ ### Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/haley-grassi0716/)! 😁
