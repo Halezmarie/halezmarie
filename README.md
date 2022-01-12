@@ -10,8 +10,8 @@
 
 ##I am curretly working on:
 
-[] My portfolio website 
-[] Deleting toys on Pups R Us
-[] Data structures and algorithms in JavaScript
+* My portfolio website 
+* Deleting toys on Pups R Us
+* Data structures and algorithms in JavaScript
  
  ### Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/haley-grassi0716/)! 😁 I don't bite!
