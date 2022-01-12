@@ -7,5 +7,11 @@
 * 😄 Pronouns: She/Her
 * 😁 Fun fact: I have done stand up comedy!
 * ✍🏻 My blog is [here](https://medium.com/@haleymgrassi)!
+
+##I am curretly working on:
+
+[] My portfolio website 
+[] Deleting toys on Pups R Us
+[] Data structures and algorithms in JavaScript
  
  ### Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/haley-grassi0716/)! 😁 I don't bite!
