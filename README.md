@@ -10,9 +10,10 @@
 
 ## I am curretly working on:
 
-* My portfolio website.
+* Data structures and algorithms in JavaScript from an Udemy class. 
 * Deleting toys on Pups R Us.
 * Updating TeaScape.
-* Data structures and algorithms in JavaScript from an Udemy class. 
+* Front-End Development
+* Brushing up my skills in React/Javascript.
  
  ### Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/haley-grassi0716/)! 😁 I don't bite!
