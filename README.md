@@ -15,6 +15,6 @@
 * Updating TeaScape.
 * Front-End Development
 * Brushing up my skills in React/Javascript.
-* Deploying my projects to Netlify
+* Deploying my projects to Netlify.
  
  ### Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/haley-grassi0716/)! 😁 I don't bite!
