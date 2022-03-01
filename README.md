@@ -8,7 +8,7 @@
 * 😁 Fun fact: I have done stand up comedy!
 * ✍🏻 My blog is [here](https://medium.com/@haleymgrassi)!
 
-## I am curretly working on:
+## I am currently working on:
 
 * Data structures and algorithms in JavaScript from an Udemy class. 
 * Deleting toys on Pups R Us.
