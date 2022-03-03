@@ -5,7 +5,7 @@
 * 💼 Working on updating my current projects along with learning algorithms.
 * 👩‍🏫 Used to be an Elementary Teacher, but now I am a Full Stack Software Engineer💻.
 * 😄 Pronouns: She/Her
-* 😁 Fun fact: I have done stand up comedy!
+* 😁 Fun fact: I have done stand up comedy.
 * ✍🏻 My blog is [here](https://medium.com/@haleymgrassi)!
 
 ## I am currently working on:
