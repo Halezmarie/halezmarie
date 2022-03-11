@@ -7,7 +7,7 @@
 * 😄 Pronouns: She/Her
 * 😁 Fun fact: I have done stand up comedy.
 * ✍🏻 My blog is [here](https://medium.com/@haleymgrassi)!
-* 🎥 Check out my [YouTube(https://www.youtube.com/channel/UC9jObIjQp5WJw_cJLYFWQzw) channel
+* 🎥 Check out my [YouTube](https://www.youtube.com/channel/UC9jObIjQp5WJw_cJLYFWQzw) channel
 
 ## I am currently working on:
 
