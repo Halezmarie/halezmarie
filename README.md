@@ -2,7 +2,7 @@
 
 
 * 🧐 Interested in expanding my knowledge on React, Javascript, and Ruby. 
-* 💼 Working on updating my current projects along with learning algorithms.
+* 💼 Working on updating my current projects and sending positive vibes out to everyone!
 * 👩‍🏫 Used to be an Elementary Teacher, but now I am a Full Stack Software Engineer💻.
 * 😁 Fun fact: I have done stand up comedy.
 * ✍🏻 My blog is [here](https://medium.com/@haleymgrassi)!
