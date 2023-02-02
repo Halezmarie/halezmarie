@@ -14,7 +14,7 @@
 * Adding more funtionality to Pups R Us. 
 * Updating TeaScape, Boogle, and Gameventory to Bootstrap.
 * Front-End Development.
-* Brushing up my skills in React/Javascript.
+* Brushing up my skills in React, JavaScript, and TypeScript.
 * Deploying my projects to Netlify.
  
  ### Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/haley-grassi0716/)! 😁 I don't bite!
